@@ -1,1 +1,7 @@
-Total Submission : 4142
+This System was used for collecting tweets and submitting relevant tweets for Scenario A (push notifications) in TREC Real-Time Summarization Track 2016. The system had successfully collected more than 50 GB tweets, submitted 4142 relevant tweets based on 203 topics over 10 days of span. 
+ 
+
+More info on TREC:- http://trec.nist.gov/
+More info on RTS Track:-	http://trecrts.github.io/ 
+More info on Tweet API:- https://apps.twitter.com/
+
