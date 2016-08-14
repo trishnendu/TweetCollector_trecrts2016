@@ -1,0 +1,126 @@
+20160802-120139 : file jsondata/02-08/tweet.20160802-120139.json created
+
+Starting run at 20160802-120139
+20160802-120245 : <class 'requests.packages.urllib3.exceptions.ProtocolError'> ('Connection broken: IncompleteRead(0 bytes read, 512 more expected)', IncompleteRead(0 bytes read, 512 more expected))
+20160802-120300 : <class 'requests.packages.urllib3.exceptions.ProtocolError'> ('Connection broken: IncompleteRead(0 bytes read, 512 more expected)', IncompleteRead(0 bytes read, 512 more expected))
+20160802-120316 : file jsondata/02-08/tweet.20160802-120316.json created
+20160802-120343 : <class 'requests.exceptions.SSLError'>20160802-120447 : <class 'requests.exceptions.SSLError'>20160802-120525 : <class 'requests.exceptions.SSLError'>20160802-120543 : <class 'requests.exceptions.SSLError'>20160802-120716 : file jsondata/02-08/tweet.20160802-120316.json closed
+20160802-120716 : file jsondata/02-08/tweet.20160802-120716.json created
+20160802-121704 : <class 'requests.exceptions.SSLError'>20160802-121741 : <class 'requests.exceptions.SSLError'>20160802-121814 : <class 'requests.exceptions.SSLError'>20160802-121819 : <class 'requests.exceptions.SSLError'>20160802-121908 : file jsondata/02-08/tweet.20160802-120716.json closed
+20160802-121908 : file jsondata/02-08/tweet.20160802-121908.json created
+20160802-122008 : <class 'requests.exceptions.SSLError'>20160802-122037 : <class 'requests.exceptions.SSLError'>20160802-122044 : <class 'requests.exceptions.SSLError'>20160802-122220 : <class 'requests.exceptions.SSLError'>20160802-122232 : <class 'requests.exceptions.SSLError'>20160802-122243 : file jsondata/02-08/tweet.20160802-121908.json closed
+20160802-122243 : file jsondata/02-08/tweet.20160802-122243.json created
+
+Starting run at 20160802-120316
+20160802-120343 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.TypeError' objects
+20160802-120447 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.TypeError' objects
+20160802-120517 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160802-120525 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.TypeError' objects
+20160802-120543 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.TypeError' objects
+20160802-120615 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160802-120655 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160802-120719 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160802-121341 : <class 'requests.packages.urllib3.exceptions.ReadTimeoutError'> HTTPSConnectionPool(host='stream.twitter.com', port=443): Read timed out.
+20160802-121357 : <class 'requests.packages.urllib3.exceptions.ProtocolError'> ('Connection broken: IncompleteRead(0 bytes read, 512 more expected)', IncompleteRead(0 bytes read, 512 more expected))
+20160802-121457 : <class 'requests.packages.urllib3.exceptions.ProtocolError'> ('Connection broken: IncompleteRead(0 bytes read, 512 more expected)', IncompleteRead(0 bytes read, 512 more expected))
+20160802-121550 : <class 'requests.exceptions.ConnectionError'> HTTPSConnectionPool(host='stream.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/sample.json?delimited=length (Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7f8cad6c8e50>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+20160802-121558 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160802-121601 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160802-121616 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160802-121704 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.TypeError' objects
+20160802-121711 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160802-121718 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160802-121725 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160802-121741 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.TypeError' objects
+20160802-121814 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.TypeError' objects
+20160802-121819 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.TypeError' objects
+20160802-121917 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160802-121946 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160802-122008 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.TypeError' objects
+20160802-122037 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.TypeError' objects
+20160802-122044 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.TypeError' objects
+20160802-122125 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160802-122152 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160802-122220 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.TypeError' objects
+20160802-122232 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.TypeError' objects
+20160802-122315 : <type 'exceptions.TypeError'> cannot concatenate 'str'20160802-122517 : <class 'requests.exceptions.SSLError'>20160802-122633 : file jsondata/02-08/tweet.20160802-122243.json closed
+20160802-122633 : file jsondata/02-08/tweet.20160802-122633.json created
+20160802-122756 : <class 'requests.exceptions.SSLError'>20160802-122805 : <class 'requests.exceptions.SSLError'>20160802-122857 : <class 'requests.exceptions.SSLError'>20160802-122927 : <class 'requests.exceptions.SSLError'>20160802-123011 : <class 'requests.exceptions.SSLError'>20160802-123020 : file jsondata/02-08/tweet.20160802-122633.json closed
+20160802-123020 : file jsondata/02-08/tweet.20160802-123020.json created
+20160802-123242 : <class 'requests.exceptions.SSLError'>20160802-123316 : file jsondata/02-08/tweet.20160802-123020.json closed
+20160802-123316 : file jsondata/02-08/tweet.20160802-123316.json created
+20160802-123506 : <class 'requests.exceptions.SSLError'>20160802-123527 : <class 'requests.exceptions.SSLError'>20160802-123736 : <class 'requests.exceptions.SSLError'>20160802-123740 : file jsondata/02-08/tweet.20160802-123316.json closed
+20160802-123740 : file jsondata/02-08/tweet.20160802-123740.json created
+20160802-123741 : <class 'requests.exceptions.SSLError'>20160802-125112 : <class 'requests.exceptions.SSLError'>20160802-125127 : <class 'requests.exceptions.SSLError'>20160802-125217 : file jsondata/02-08/tweet.20160802-123740.json closed
+20160802-125217 : file jsondata/02-08/tweet.20160802-125217.json created
+20160802-125219 : <class 'requests.exceptions.SSLError'>20160802-125252 : <class 'requests.exceptions.SSLError'>20160802-125308 : <class 'requests.exceptions.SSLError'> and 'exceptions.UnicodeEncodeError' objects
+20160802-122344 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160802-122418 : <class 'requests.packages.urllib3.exceptions.ProtocolError'> ('Connection broken: IncompleteRead(0 bytes read, 512 more expected)', IncompleteRead(0 bytes read, 512 more expected))
+20160802-122439 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160802-122448 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160802-122517 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.TypeError' objects
+20160802-122704 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160802-122756 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.TypeError' objects
+20160802-122805 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.TypeError' objects
+20160802-122857 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.TypeError' objects
+20160802-122927 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.TypeError' objects
+20160802-123011 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.TypeError' objects
+20160802-123103 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160802-123242 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.TypeError' objects
+20160802-123348 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160802-123408 : <class 'requests.packages.urllib3.exceptions.ProtocolError'> ('Connection broken: IncompleteRead(0 bytes read, 512 more expected)', IncompleteRead(0 bytes read, 512 more expected))
+20160802-123428 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160802-123439 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160802-123444 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160802-123506 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.TypeError' objects
+20160802-123527 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.TypeError' objects
+20160802-123607 : <class 'requests.packages.urllib3.exceptions.ProtocolError'> ('Connection broken: IncompleteRead(0 bytes read, 351 more expected)', IncompleteRead(0 bytes read, 351 more expected))
+20160802-123634 : <class 'requests.packages.urllib3.exceptions.ProtocolError'> ('Connection broken: IncompleteRead(0 bytes read, 512 more expected)', IncompleteRead(0 bytes read, 512 more expected))
+20160802-123736 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.TypeError' objects
+20160802-123741 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.TypeError' objects
+20160802-123811 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160802-124938 : <class 'requests.packages.urllib3.exceptions.ReadTimeoutError'> HTTPSConnectionPool(host='stream.twitter.com', port=443): Read timed out.
+20160802-124956 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160802-125112 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.TypeError' objects
+20160802-125127 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.TypeError' objects
+20160802-125202 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160802-125219 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.TypeError' objects
+20160802-125252 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.TypeError' objects
+20160802-125308 : <type 'exceptions.TypeError'> cannot concatenate 'str' an20160802-125346 : <class 'requests.exceptions.SSLError'>20160802-125359 : <class 'requests.exceptions.SSLError'>20160802-125446 : <class 'requests.exceptions.SSLError'>20160802-125509 : <class 'requests.exceptions.SSLError'>20160802-125540 : file jsondata/02-08/tweet.20160802-125217.json closed
+20160802-125540 : file jsondata/02-08/tweet.20160802-125540.json created
+20160802-125853 : file jsondata/02-08/tweet.20160802-125540.json closed
+20160802-125853 : file jsondata/02-08/tweet.20160802-125853.json created
+20160802-130209 : <class 'requests.exceptions.SSLError'>20160802-130226 : file jsondata/02-08/tweet.20160802-125853.json closed
+20160802-130226 : file jsondata/02-08/tweet.20160802-130226.json created
+20160802-130317 : <class 'requests.exceptions.SSLError'>20160802-130426 : <class 'requests.exceptions.SSLError'>20160802-130448 : <class 'requests.exceptions.SSLError'>20160802-130547 : file jsondata/02-08/tweet.20160802-130226.json closed
+20160802-130547 : file jsondata/02-08/tweet.20160802-130547.json created
+20160802-130709 : <class 'requests.exceptions.SSLError'>20160802-130923 : file jsondata/02-08/tweet.20160802-130547.json closed
+20160802-130923 : file jsondata/02-08/tweet.20160802-130923.json created
+20160805-171822 : file jsondata/05-08/tweet.20160805-171822.json created
+20160805-172047 : file jsondata/05-08/tweet.20160805-171822.json closed
+20160805-172047 : file jsondata/05-08/tweet.20160805-172047.json created
+20160805-172320 : file jsondata/05-08/tweet.20160805-172047.json closed
+20160805-172320 : file jsondata/05-08/tweet.20160805-172320.json created
+
+Starting run at 20160805-171822
+20160805-171826 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160805-171850 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160805-172003 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160805-172014 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160805-172027 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160805-172048 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160805-172051 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160805-172103 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160805-172108 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160805-172112 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160805-172116 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160805-172152 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160805-172202 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160805-172209 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160805-172233 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160805-172251 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160805-172334 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160805-172337 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160805-172345 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160805-172354 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects
+20160805-172511 : <type 'exceptions.TypeError'> cannot concatenate 'str' and 'exceptions.UnicodeEncodeError' objects

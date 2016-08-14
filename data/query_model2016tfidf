@@ -1,0 +1,1218 @@
+<top>
+<num>RTS29</num>
+<title>tornadoes in Kansas</title>
+<priorterms>['kansas', 'tornadoes', 'alerts']</priorterms>
+<qmodel>TEXT:kansas TEXT:tornadoes TEXT:alerts </qmodel>
+</top>
+<top>
+<num>RTS13</num>
+<title>Amazon same day shipping</title>
+<priorterms>['day', 'amazons', 'amazon', 'people', 'policy', 'shipping', 'feel']</priorterms>
+<qmodel>TEXT:day TEXT:amazons TEXT:amazon TEXT:people TEXT:policy TEXT:shipping TEXT:feel </qmodel>
+</top>
+<top>
+<num>MB268</num>
+<title>Syrian civil war</title>
+<priorterms>['related', 'information', 'involves', 'war', 'forces', 'civil', 'syrian', 'fighting', 'syria', 'government']</priorterms>
+<qmodel>TEXT:related TEXT:information TEXT:involves TEXT:war TEXT:forces TEXT:civil TEXT:syrian TEXT:fighting TEXT:syria TEXT:government </qmodel>
+</top>
+<top>
+<num>MB399</num>
+<title>Lewy body dementia</title>
+<priorterms>['lewy', 'dementia', 'body', 'information']</priorterms>
+<qmodel>TEXT:lewy TEXT:dementia TEXT:body TEXT:information </qmodel>
+</top>
+<top>
+<num>RTS21</num>
+<title>SpaceX Falcon 9</title>
+<priorterms>['reusable', 'opinions', 'made', 'falcon', 'rocket', '9', 'spacex', 'peoples']</priorterms>
+<qmodel>TEXT:reusable TEXT:opinions TEXT:made TEXT:falcon TEXT:rocket TEXT:9 TEXT:spacex TEXT:peoples </qmodel>
+</top>
+<top>
+<num>MB375</num>
+<title>concussion injuries</title>
+<priorterms>['concussion', 'treatment', 'information', 'injuries', 'prevalence']</priorterms>
+<qmodel>TEXT:concussion TEXT:treatment TEXT:information TEXT:injuries TEXT:prevalence </qmodel>
+</top>
+<top>
+<num>MB400</num>
+<title>probiotics</title>
+<priorterms>['information', 'benefits', 'health', 'probiotics']</priorterms>
+<qmodel>TEXT:information TEXT:benefits TEXT:health TEXT:probiotics </qmodel>
+</top>
+<top>
+<num>RTS9</num>
+<title>Leos horoscope</title>
+<priorterms>['horoscope', 'leos', 'daily']</priorterms>
+<qmodel>TEXT:horoscope TEXT:leos TEXT:daily </qmodel>
+</top>
+<top>
+<num>MB299</num>
+<title>subway commuting problems</title>
+<priorterms>['impacting', 'system', 'problems', 'information', 'subway', 'commuting']</priorterms>
+<qmodel>TEXT:impacting TEXT:system TEXT:problems TEXT:information TEXT:subway TEXT:commuting </qmodel>
+</top>
+<top>
+<num>RTS26</num>
+<title>Verizon high data usage</title>
+<priorterms>['high', 'plan', 'wirelesss', 'verizon', 'eliminate', 'reactions', 'category', 'usage', 'expected', 'data', 'peoples', 'unlimited']</priorterms>
+<qmodel>TEXT:high TEXT:plan TEXT:wirelesss TEXT:verizon TEXT:eliminate TEXT:reactions TEXT:category TEXT:usage TEXT:expected TEXT:data TEXT:peoples TEXT:unlimited </qmodel>
+</top>
+<top>
+<num>RTS25</num>
+<title>Russian Olympic team ban</title>
+<priorterms>['banned', 'entire', 'olympics', 'russian', 'sentiment', 'team', 'rio', 'olympic', 'ban']</priorterms>
+<qmodel>TEXT:banned TEXT:entire TEXT:olympics TEXT:russian TEXT:sentiment TEXT:team TEXT:rio TEXT:olympic TEXT:ban </qmodel>
+</top>
+<top>
+<num>MB438</num>
+<title>marlin fishing in Key West</title>
+<priorterms>['return', 'west', 'florida', 'marlin', 'key', 'fishing', 'tweets']</priorterms>
+<qmodel>TEXT:return TEXT:west TEXT:florida TEXT:marlin TEXT:key TEXT:fishing TEXT:tweets </qmodel>
+</top>
+<top>
+<num>MB333</num>
+<title>assisted living facilities in NYC and D.C.</title>
+<priorterms>['assisted', 'york', 'information', 'nyc', 'andor', 'tweets', 'city', 'opinions', 'giving', 'washington', 'facilities', 'living', 'dc']</priorterms>
+<qmodel>TEXT:assisted TEXT:york TEXT:information TEXT:nyc TEXT:andor TEXT:tweets TEXT:city TEXT:opinions TEXT:giving TEXT:washington TEXT:facilities TEXT:living TEXT:dc </qmodel>
+</top>
+<top>
+<num>MB239</num>
+<title>passenger train safety</title>
+<priorterms>['safety', 'passengers', 'accidents', 'feel', 'recent', 'passenger', 'rail', 'wake', 'train']</priorterms>
+<qmodel>TEXT:safety TEXT:passengers TEXT:accidents TEXT:feel TEXT:recent TEXT:passenger TEXT:rail TEXT:wake TEXT:train </qmodel>
+</top>
+<top>
+<num>MB344</num>
+<title>Iran nuclear agreement</title>
+<priorterms>['potentially', 'developments', 'reach', 'relief', 'limiting', 'irans', 'sanctions', 'capacity', 'agreement', 'nuclear', 'negotiations', 'weapons', 'economic', 'exchange', 'tweets', 'produce', 'iran']</priorterms>
+<qmodel>TEXT:potentially TEXT:developments TEXT:reach TEXT:relief TEXT:limiting TEXT:irans TEXT:sanctions TEXT:capacity TEXT:agreement TEXT:nuclear TEXT:negotiations TEXT:weapons TEXT:economic TEXT:exchange TEXT:tweets TEXT:produce TEXT:iran </qmodel>
+</top>
+<top>
+<num>MB414</num>
+<title>Americans traveling to Cuba</title>
+<priorterms>['experiences', 'cuba', 'personal', 'traveling', 'americans', 'describing', 'tweets']</priorterms>
+<qmodel>TEXT:experiences TEXT:cuba TEXT:personal TEXT:traveling TEXT:americans TEXT:describing TEXT:tweets </qmodel>
+</top>
+<top>
+<num>MB415</num>
+<title>Ariana Grande</title>
+<priorterms>['information', 'ariana', 'grande']</priorterms>
+<qmodel>TEXT:information TEXT:ariana TEXT:grande </qmodel>
+</top>
+<top>
+<num>MB379</num>
+<title>morel mushrooms</title>
+<priorterms>['information', 'mushrooms', 'morel']</priorterms>
+<qmodel>TEXT:information TEXT:mushrooms TEXT:morel </qmodel>
+</top>
+<top>
+<num>MB230</num>
+<title>bus service to NYC</title>
+<priorterms>['service', 'nyc', 'bus', 'information']</priorterms>
+<qmodel>TEXT:service TEXT:nyc TEXT:bus TEXT:information </qmodel>
+</top>
+<top>
+<num>MB388</num>
+<title>Saratoga Race Track</title>
+<priorterms>['experiences', 'race', 'track', 'saratoga', 'reports', 'peoples']</priorterms>
+<qmodel>TEXT:experiences TEXT:race TEXT:track TEXT:saratoga TEXT:reports TEXT:peoples </qmodel>
+</top>
+<top>
+<num>MB434</num>
+<title>2015 Summer PanAm Games</title>
+<priorterms>['summer', 'games', 'reports', '2015', 'panam']</priorterms>
+<qmodel>TEXT:summer TEXT:games TEXT:reports TEXT:2015 TEXT:panam </qmodel>
+</top>
+<top>
+<num>MB361</num>
+<title>adult summer camps</title>
+<priorterms>['information', 'camps', 'summer', 'adult']</priorterms>
+<qmodel>TEXT:information TEXT:camps TEXT:summer TEXT:adult </qmodel>
+</top>
+<top>
+<num>RTS3</num>
+<title>"No Man's Sky"</title>
+<priorterms>['sky', 'video', 'reviews', 'game', 'mans']</priorterms>
+<qmodel>TEXT:sky TEXT:video TEXT:reviews TEXT:game TEXT:mans </qmodel>
+</top>
+<top>
+<num>MB348</num>
+<title>drones vs. commercial airliners</title>
+<priorterms>['information', 'flying', 'airliners', 'regions', 'commercial', 'drones']</priorterms>
+<qmodel>TEXT:information TEXT:flying TEXT:airliners TEXT:regions TEXT:commercial TEXT:drones </qmodel>
+</top>
+<top>
+<num>MB263</num>
+<title>Crohn's disease treatment</title>
+<priorterms>['treatment', 'crohns', 'disease', 'information', 'options']</priorterms>
+<qmodel>TEXT:treatment TEXT:crohns TEXT:disease TEXT:information TEXT:options </qmodel>
+</top>
+<top>
+<num>RTS35</num>
+<title>tax-free shopping in Texas</title>
+<priorterms>['shopping', 'backtoschool', 'shoppers', 'information', 'deals', 'fellow', 'texas', 'taxfree']</priorterms>
+<qmodel>TEXT:shopping TEXT:backtoschool TEXT:shoppers TEXT:information TEXT:deals TEXT:fellow TEXT:texas TEXT:taxfree </qmodel>
+</top>
+<top>
+<num>RTS44</num>
+<title>Hillary Clinton and Tim Kaine policy differences</title>
+<priorterms>['running', 'tim', 'mate', 'presidential', 'information', 'democratic', 'policy', 'clinton', 'hillary', 'differences', 'kaine', 'candidate']</priorterms>
+<qmodel>TEXT:running TEXT:tim TEXT:mate TEXT:presidential TEXT:information TEXT:democratic TEXT:policy TEXT:clinton TEXT:hillary TEXT:differences TEXT:kaine TEXT:candidate </qmodel>
+</top>
+<top>
+<num>MB282</num>
+<title>euthanasia debate</title>
+<priorterms>['incurable', 'opinions', 'sides', 'debate', 'severe', 'people', 'euthanasia', 'die', 'diseases', 'debatewhether']</priorterms>
+<qmodel>TEXT:incurable TEXT:opinions TEXT:sides TEXT:debate TEXT:severe TEXT:people TEXT:euthanasia TEXT:die TEXT:diseases TEXT:debatewhether </qmodel>
+</top>
+<top>
+<num>MB362</num>
+<title>Outback Steakhouse</title>
+<priorterms>['chain', 'opinions', 'information', 'outback', 'restaurant', 'steakhouse']</priorterms>
+<qmodel>TEXT:chain TEXT:opinions TEXT:information TEXT:outback TEXT:restaurant TEXT:steakhouse </qmodel>
+</top>
+<top>
+<num>MB249</num>
+<title>Johns Hopkins Lyme disease study</title>
+<priorterms>['current', 'johns', 'disease', 'hopkins', 'study', 'hospital', 'lyme', 'status']</priorterms>
+<qmodel>TEXT:current TEXT:johns TEXT:disease TEXT:hopkins TEXT:study TEXT:hospital TEXT:lyme TEXT:status </qmodel>
+</top>
+<top>
+<num>RTS30</num>
+<title>Black Lives Matter protest locations</title>
+<priorterms>['protest', 'blm', 'information', 'locations', 'lives', 'held', 'matter', 'protests', 'states', 'black', 'united']</priorterms>
+<qmodel>TEXT:protest TEXT:blm TEXT:information TEXT:locations TEXT:lives TEXT:held TEXT:matter TEXT:protests TEXT:states TEXT:black TEXT:united </qmodel>
+</top>
+<top>
+<num>MB250</num>
+<title>outdoor Shakespeare in NYC</title>
+<priorterms>['performances', 'shakespeare', 'outdoor', 'information', 'nyc', 'parks']</priorterms>
+<qmodel>TEXT:performances TEXT:shakespeare TEXT:outdoor TEXT:information TEXT:nyc TEXT:parks </qmodel>
+</top>
+<top>
+<num>MB262</num>
+<title>Stephen Colbert Late Show</title>
+<priorterms>['show', 'opinions', 'stephen', 'david', 'information', 'colbert', 'lettermans', 'successor', 'late']</priorterms>
+<qmodel>TEXT:show TEXT:opinions TEXT:stephen TEXT:david TEXT:information TEXT:colbert TEXT:lettermans TEXT:successor TEXT:late </qmodel>
+</top>
+<top>
+<num>RTS36</num>
+<title>FDA and tobacco products</title>
+<priorterms>['vapes', 'information', 'include', 'fda', 'ecigarettes', 'rules', 'tobacco', 'products', 'hookahs']</priorterms>
+<qmodel>TEXT:vapes TEXT:information TEXT:include TEXT:fda TEXT:ecigarettes TEXT:rules TEXT:tobacco TEXT:products TEXT:hookahs </qmodel>
+</top>
+<top>
+<num>MB450</num>
+<title>traffic cameras</title>
+<priorterms>['cameras', 'traffic', 'publics', 'sentiment']</priorterms>
+<qmodel>TEXT:cameras TEXT:traffic TEXT:publics TEXT:sentiment </qmodel>
+</top>
+<top>
+<num>MB315</num>
+<title>transgender health services</title>
+<priorterms>['information', 'directory', 'contribute', 'construction', 'individuals', 'transgender', 'services', 'health']</priorterms>
+<qmodel>TEXT:information TEXT:directory TEXT:contribute TEXT:construction TEXT:individuals TEXT:transgender TEXT:services TEXT:health </qmodel>
+</top>
+<top>
+<num>MB316</num>
+<title>low carbohydrate diet</title>
+<priorterms>['carbohydrate', 'diet', 'information', 'low', 'diets']</priorterms>
+<qmodel>TEXT:carbohydrate TEXT:diet TEXT:information TEXT:low TEXT:diets </qmodel>
+</top>
+<top>
+<num>RTS6</num>
+<title>Olympic medals for Thailand</title>
+<priorterms>['2016', 'information', 'thailand', 'won', 'medals', 'olympics', 'olympic']</priorterms>
+<qmodel>TEXT:2016 TEXT:information TEXT:thailand TEXT:won TEXT:medals TEXT:olympics TEXT:olympic </qmodel>
+</top>
+<top>
+<num>RTS16</num>
+<title>"Big Brother"</title>
+<priorterms>['television', 'show', 'brother', 'big', 'happening']</priorterms>
+<qmodel>TEXT:television TEXT:show TEXT:brother TEXT:big TEXT:happening </qmodel>
+</top>
+<top>
+<num>MB306</num>
+<title>U.S. writers conferences</title>
+<priorterms>['information', 'writers', 'conferences']</priorterms>
+<qmodel>TEXT:information TEXT:writers TEXT:conferences </qmodel>
+</top>
+<top>
+<num>MB359</num>
+<title>"Grey" book</title>
+<priorterms>['fifty', 'book', 'james', 'fourth', 'el', 'shades', 'series', 'grey', 'tweets']</priorterms>
+<qmodel>TEXT:fifty TEXT:book TEXT:james TEXT:fourth TEXT:el TEXT:shades TEXT:series TEXT:grey TEXT:tweets </qmodel>
+</top>
+<top>
+<num>MB370</num>
+<title>Airbus 380 experiences</title>
+<priorterms>['380', 'experiences', 'airbus', 'passengers', 'aboard', 'tweets']</priorterms>
+<qmodel>TEXT:380 TEXT:experiences TEXT:airbus TEXT:passengers TEXT:aboard TEXT:tweets </qmodel>
+</top>
+<top>
+<num>RTS8</num>
+<title>Donald Trump's tax policy</title>
+<priorterms>['policies', 'tax', 'america', 'presidential', 'policy', 'donald', 'information', 'plans', 'trumps', 'candidate']</priorterms>
+<qmodel>TEXT:policies TEXT:tax TEXT:america TEXT:presidential TEXT:policy TEXT:donald TEXT:information TEXT:plans TEXT:trumps TEXT:candidate </qmodel>
+</top>
+<top>
+<num>MB349</num>
+<title>pointing lasers at aircraft</title>
+<priorterms>['pointing', 'pointed', 'aircraft', 'lasers', 'tweets']</priorterms>
+<qmodel>TEXT:pointing TEXT:pointed TEXT:aircraft TEXT:lasers TEXT:tweets </qmodel>
+</top>
+<top>
+<num>MB409</num>
+<title>airport TSA screenings</title>
+<priorterms>['airport', 'administration', 'airports', 'information', 'transportation', 'security', 'screenings', 'tsa']</priorterms>
+<qmodel>TEXT:airport TEXT:administration TEXT:airports TEXT:information TEXT:transportation TEXT:security TEXT:screenings TEXT:tsa </qmodel>
+</top>
+<top>
+<num>MB374</num>
+<title>home brewing beer</title>
+<priorterms>['information', 'brewing', 'home', 'beer']</priorterms>
+<qmodel>TEXT:information TEXT:brewing TEXT:home TEXT:beer </qmodel>
+</top>
+<top>
+<num>MB372</num>
+<title>low serotonin</title>
+<priorterms>['effects', 'serotonin', 'accounts', 'low', 'levels', 'personal']</priorterms>
+<qmodel>TEXT:effects TEXT:serotonin TEXT:accounts TEXT:low TEXT:levels TEXT:personal </qmodel>
+</top>
+<top>
+<num>MB391</num>
+<title>polar icecap melting</title>
+<priorterms>['poles', 'icecaps', 'polar', 'north', 'melting', 'information', 'icecap', 'opinions', 'reports', 'south']</priorterms>
+<qmodel>TEXT:poles TEXT:icecaps TEXT:polar TEXT:north TEXT:melting TEXT:information TEXT:icecap TEXT:opinions TEXT:reports TEXT:south </qmodel>
+</top>
+<top>
+<num>MB345</num>
+<title>triathlon participants</title>
+<priorterms>['participants', 'tweets', 'triathlon']</priorterms>
+<qmodel>TEXT:participants TEXT:tweets TEXT:triathlon </qmodel>
+</top>
+<top>
+<num>MB416</num>
+<title>Hepworth Exhibit at the Tate Britain</title>
+<priorterms>['hepworth', 'exhibit', 'newlyopened', 'sculptures', 'barbara', 'britain', 'return', 'london', 'tate', 'gallery', 'tweets']</priorterms>
+<qmodel>TEXT:hepworth TEXT:exhibit TEXT:newlyopened TEXT:sculptures TEXT:barbara TEXT:britain TEXT:return TEXT:london TEXT:tate TEXT:gallery TEXT:tweets </qmodel>
+</top>
+<top>
+<num>MB353</num>
+<title>summer Seasonal Affective Disorder (SAD)</title>
+<priorterms>['seasonal', 'version', 'summer', 'information', 'affective', 'disorder', 'sad']</priorterms>
+<qmodel>TEXT:seasonal TEXT:version TEXT:summer TEXT:information TEXT:affective TEXT:disorder TEXT:sad </qmodel>
+</top>
+<top>
+<num>MB308</num>
+<title>Joey Alexander, jazz pianist</title>
+<priorterms>['pianist', 'jazz', 'joey', 'child', 'information', 'alexander', 'prodigy']</priorterms>
+<qmodel>TEXT:pianist TEXT:jazz TEXT:joey TEXT:child TEXT:information TEXT:alexander TEXT:prodigy </qmodel>
+</top>
+<top>
+<num>RTS19</num>
+<title>Tesla</title>
+<priorterms>['motor', 'tesla', 'made', 'information', 'cars', 'corp', 'reliability']</priorterms>
+<qmodel>TEXT:motor TEXT:tesla TEXT:made TEXT:information TEXT:cars TEXT:corp TEXT:reliability </qmodel>
+</top>
+<top>
+<num>MB449</num>
+<title>Lego Robotics</title>
+<priorterms>['information', 'robotics', 'lego', 'activities']</priorterms>
+<qmodel>TEXT:information TEXT:robotics TEXT:lego TEXT:activities </qmodel>
+</top>
+<top>
+<num>MB431</num>
+<title>Royal Shakespeare Company</title>
+<priorterms>['royal', 'shakespeare', 'opinions', 'company', 'peoples', 'productions', 'experiences', 'tweets']</priorterms>
+<qmodel>TEXT:royal TEXT:shakespeare TEXT:opinions TEXT:company TEXT:peoples TEXT:productions TEXT:experiences TEXT:tweets </qmodel>
+</top>
+<top>
+<num>MB440</num>
+<title>women's rights in Saudi Arabia</title>
+<priorterms>['rights', 'saudi', 'arabia', 'womens', 'return', 'tweets']</priorterms>
+<qmodel>TEXT:rights TEXT:saudi TEXT:arabia TEXT:womens TEXT:return TEXT:tweets </qmodel>
+</top>
+<top>
+<num>MB312</num>
+<title>lawn bowling</title>
+<priorterms>['bowling', 'information', 'lawn', 'game']</priorterms>
+<qmodel>TEXT:bowling TEXT:information TEXT:lawn TEXT:game </qmodel>
+</top>
+<top>
+<num>MB267</num>
+<title>fighting between Ukraine and pro-Russian rebels</title>
+<priorterms>['related', 'information', 'fighting', 'ukraine', 'prorussian', 'eastern', 'ukrainian', 'government', 'rebels', 'forces']</priorterms>
+<qmodel>TEXT:related TEXT:information TEXT:fighting TEXT:ukraine TEXT:prorussian TEXT:eastern TEXT:ukrainian TEXT:government TEXT:rebels TEXT:forces </qmodel>
+</top>
+<top>
+<num>RTS14</num>
+<title>Colonoscopy preparation</title>
+<priorterms>['information', 'prepare', 'people', 'upcoming', 'colonoscopy', 'preparation']</priorterms>
+<qmodel>TEXT:information TEXT:prepare TEXT:people TEXT:upcoming TEXT:colonoscopy TEXT:preparation </qmodel>
+</top>
+<top>
+<num>MB265</num>
+<title>cruise ship mishaps</title>
+<priorterms>['passengers', 'reactions', 'describing', 'mishaps', 'cruise', 'ship', 'tweets']</priorterms>
+<qmodel>TEXT:passengers TEXT:reactions TEXT:describing TEXT:mishaps TEXT:cruise TEXT:ship TEXT:tweets </qmodel>
+</top>
+<top>
+<num>MB258</num>
+<title>Restaurant Week NYC</title>
+<priorterms>['information', 'nyc', 'restaurant', 'week']</priorterms>
+<qmodel>TEXT:information TEXT:nyc TEXT:restaurant TEXT:week </qmodel>
+</top>
+<top>
+<num>MB420</num>
+<title>Sriracha sauce food uses</title>
+<priorterms>['sauce', 'sriracha', 'food']</priorterms>
+<qmodel>TEXT:sauce TEXT:sriracha TEXT:food </qmodel>
+</top>
+<top>
+<num>MB326</num>
+<title>wheelchair accessibility</title>
+<priorterms>['people', 'wheelchair', 'problems', 'accessibility', 'reports', 'wheelchairbound']</priorterms>
+<qmodel>TEXT:people TEXT:wheelchair TEXT:problems TEXT:accessibility TEXT:reports TEXT:wheelchairbound </qmodel>
+</top>
+<top>
+<num>MB354</num>
+<title>"Go Set a Watchman"</title>
+<priorterms>['book', 'watchman', 'set', 'information', 'lee', 'harper', 'publication']</priorterms>
+<qmodel>TEXT:book TEXT:watchman TEXT:set TEXT:information TEXT:lee TEXT:harper TEXT:publication </qmodel>
+</top>
+<top>
+<num>MB378</num>
+<title>cocker spaniel adoption</title>
+<priorterms>['spaniel', 'dogs', 'cocker', 'adoption', 'tweets']</priorterms>
+<qmodel>TEXT:spaniel TEXT:dogs TEXT:cocker TEXT:adoption TEXT:tweets </qmodel>
+</top>
+<top>
+<num>RTS18</num>
+<title>"Suicide Squad"</title>
+<priorterms>['high', 'squad', 'rating', 'pg13', 'information', 'low', 'suicide', 'movie', 'mpaa']</priorterms>
+<qmodel>TEXT:high TEXT:squad TEXT:rating TEXT:pg13 TEXT:information TEXT:low TEXT:suicide TEXT:movie TEXT:mpaa </qmodel>
+</top>
+<top>
+<num>RTS45</num>
+<title>Democratic Party favoritism</title>
+<priorterms>['hillary', 'bernie', 'clinton', 'opinions', 'showed', 'favoritism', 'sanders', 'democratic', 'party']</priorterms>
+<qmodel>TEXT:hillary TEXT:bernie TEXT:clinton TEXT:opinions TEXT:showed TEXT:favoritism TEXT:sanders TEXT:democratic TEXT:party </qmodel>
+</top>
+<top>
+<num>MB351</num>
+<title>Piedmont, Italy</title>
+<priorterms>['visiting', 'piedmont', 'information', 'region', 'italy']</priorterms>
+<qmodel>TEXT:visiting TEXT:piedmont TEXT:information TEXT:region TEXT:italy </qmodel>
+</top>
+<top>
+<num>RTS10</num>
+<title>Hiroshima atomic bomb</title>
+<priorterms>['hiroshima', 'atomic', 'states', 'united', 'current', 'world', 'war', 'bomb', 'sentiment', 'ii']</priorterms>
+<qmodel>TEXT:hiroshima TEXT:atomic TEXT:states TEXT:united TEXT:current TEXT:world TEXT:war TEXT:bomb TEXT:sentiment TEXT:ii </qmodel>
+</top>
+<top>
+<num>MB446</num>
+<title>lacrosse tournaments</title>
+<priorterms>['return', 'lacrosse', 'commentary', 'tournaments', 'announcements']</priorterms>
+<qmodel>TEXT:return TEXT:lacrosse TEXT:commentary TEXT:tournaments TEXT:announcements </qmodel>
+</top>
+<top>
+<num>RTS38</num>
+<title>abuse of celebrities on Twitter</title>
+<priorterms>['abuse', 'claiming', 'celebrities', 'abused', 'twitter']</priorterms>
+<qmodel>TEXT:abuse TEXT:claiming TEXT:celebrities TEXT:abused TEXT:twitter </qmodel>
+</top>
+<top>
+<num>MB356</num>
+<title>fitness in seniors</title>
+<priorterms>['seniors', 'citizens', 'routines', 'senior', 'fitness', 'tweets']</priorterms>
+<qmodel>TEXT:seniors TEXT:citizens TEXT:routines TEXT:senior TEXT:fitness TEXT:tweets </qmodel>
+</top>
+<top>
+<num>MB228</num>
+<title>Coumadin dietary restrictions</title>
+<priorterms>['information', 'dietary', 'coumadin', 'blood', 'restrictions', 'thinning', 'drug']</priorterms>
+<qmodel>TEXT:information TEXT:dietary TEXT:coumadin TEXT:blood TEXT:restrictions TEXT:thinning TEXT:drug </qmodel>
+</top>
+<top>
+<num>MB432</num>
+<title>Mount Rushmore</title>
+<priorterms>['visiting', 'rushmore', 'reactions', 'mount', 'peoples', 'experiences', 'tweets']</priorterms>
+<qmodel>TEXT:visiting TEXT:rushmore TEXT:reactions TEXT:mount TEXT:peoples TEXT:experiences TEXT:tweets </qmodel>
+</top>
+<top>
+<num>RTS40</num>
+<title>Leicester City</title>
+<priorterms>['city', 'champions', 'league', 'citys', 'information', 'fixtures', 'leicester', 'premier']</priorterms>
+<qmodel>TEXT:city TEXT:champions TEXT:league TEXT:citys TEXT:information TEXT:fixtures TEXT:leicester TEXT:premier </qmodel>
+</top>
+<top>
+<num>RTS37</num>
+<title>Sea World</title>
+<priorterms>['sea', 'world', 'condition', 'animals', 'information']</priorterms>
+<qmodel>TEXT:sea TEXT:world TEXT:condition TEXT:animals TEXT:information </qmodel>
+</top>
+<top>
+<num>RTS1</num>
+<title>transgender bathrooms</title>
+<priorterms>['bathrooms', 'sides', 'transgender', 'information', 'bathroom', 'individual', 'debate']</priorterms>
+<qmodel>TEXT:bathrooms TEXT:sides TEXT:transgender TEXT:information TEXT:bathroom TEXT:individual TEXT:debate </qmodel>
+</top>
+<top>
+<num>RTS27</num>
+<title>Pokemon Go injuries</title>
+<priorterms>['playing', 'people', 'anecdotes', 'pokemon', 'injuries', 'game', 'injured']</priorterms>
+<qmodel>TEXT:playing TEXT:people TEXT:anecdotes TEXT:pokemon TEXT:injuries TEXT:game TEXT:injured </qmodel>
+</top>
+<top>
+<num>MB284</num>
+<title>coping with identity theft</title>
+<priorterms>['experiences', 'coping', 'information', 'practices', 'theft', 'identity', 'consumer']</priorterms>
+<qmodel>TEXT:experiences TEXT:coping TEXT:information TEXT:practices TEXT:theft TEXT:identity TEXT:consumer </qmodel>
+</top>
+<top>
+<num>MB408</num>
+<title>amphetamines and ADHD</title>
+<priorterms>['adhd', 'tweets', 'amphetamines', 'discuss']</priorterms>
+<qmodel>TEXT:adhd TEXT:tweets TEXT:amphetamines TEXT:discuss </qmodel>
+</top>
+<top>
+<num>MB422</num>
+<title>growing orchids</title>
+<priorterms>['growing', 'orchids', 'caring', 'information', 'practices']</priorterms>
+<qmodel>TEXT:growing TEXT:orchids TEXT:caring TEXT:information TEXT:practices </qmodel>
+</top>
+<top>
+<num>MB384</num>
+<title>arson fires in inner cities</title>
+<priorterms>['fires', 'reports', 'cities', 'arson']</priorterms>
+<qmodel>TEXT:fires TEXT:reports TEXT:cities TEXT:arson </qmodel>
+</top>
+<top>
+<num>MB328</num>
+<title>ISIS in Afghanistan</title>
+<priorterms>['information', 'isis', 'afghanistan', 'presence']</priorterms>
+<qmodel>TEXT:information TEXT:isis TEXT:afghanistan TEXT:presence </qmodel>
+</top>
+<top>
+<num>MB421</num>
+<title>casino gambling in Maryland</title>
+<priorterms>['information', 'sociocultural', 'economic', 'casino', 'gambling', 'maryland', 'impact']</priorterms>
+<qmodel>TEXT:information TEXT:sociocultural TEXT:economic TEXT:casino TEXT:gambling TEXT:maryland TEXT:impact </qmodel>
+</top>
+<top>
+<num>RTS34</num>
+<title>Beyonce in Barcelona</title>
+<priorterms>['3rd', 'barcelona', 'spain', 'beyonce', 'tweets', 'august', 'performance', 'fans']</priorterms>
+<qmodel>TEXT:3rd TEXT:barcelona TEXT:spain TEXT:beyonce TEXT:tweets TEXT:august TEXT:performance TEXT:fans </qmodel>
+</top>
+<top>
+<num>MB281</num>
+<title>tick bite treatment</title>
+<priorterms>['suggested', 'tick', 'treatment', 'bite', 'tweets']</priorterms>
+<qmodel>TEXT:suggested TEXT:tick TEXT:treatment TEXT:bite TEXT:tweets </qmodel>
+</top>
+<top>
+<num>MB437</num>
+<title>gay adoption</title>
+<priorterms>['adopting', 'opinions', 'children', 'gay', 'parents', 'adoption']</priorterms>
+<qmodel>TEXT:adopting TEXT:opinions TEXT:children TEXT:gay TEXT:parents TEXT:adoption </qmodel>
+</top>
+<top>
+<num>MB254</num>
+<title>cancer and depression</title>
+<priorterms>['treatment', 'cancer', 'accounts', 'depression', 'successful', 'dealt', 'survivors']</priorterms>
+<qmodel>TEXT:treatment TEXT:cancer TEXT:accounts TEXT:depression TEXT:successful TEXT:dealt TEXT:survivors </qmodel>
+</top>
+<top>
+<num>MB321</num>
+<title>celebrity DUI</title>
+<priorterms>['received', 'personalities', 'dui', 'celebrities', 'information', 'famous', 'violations', 'celebrity']</priorterms>
+<qmodel>TEXT:received TEXT:personalities TEXT:dui TEXT:celebrities TEXT:information TEXT:famous TEXT:violations TEXT:celebrity </qmodel>
+</top>
+<top>
+<num>MB229</num>
+<title>legalizing medical marijuana</title>
+<priorterms>['information', 'legalized', 'medical', 'marijuana', 'legalizing', 'states']</priorterms>
+<qmodel>TEXT:information TEXT:legalized TEXT:medical TEXT:marijuana TEXT:legalizing TEXT:states </qmodel>
+</top>
+<top>
+<num>MB392</num>
+<title>U.S. forest fires</title>
+<priorterms>['forest', 'fires', 'reports', 'active']</priorterms>
+<qmodel>TEXT:forest TEXT:fires TEXT:reports TEXT:active </qmodel>
+</top>
+<top>
+<num>MB365</num>
+<title>cellphone tracking</title>
+<priorterms>['cellphones', 'opinions', 'federal', 'tracking', 'information', 'officers', 'police', 'cellphone']</priorterms>
+<qmodel>TEXT:cellphones TEXT:opinions TEXT:federal TEXT:tracking TEXT:information TEXT:officers TEXT:police TEXT:cellphone </qmodel>
+</top>
+<top>
+<num>MB287</num>
+<title>"The Vatican Tapes" movie</title>
+<priorterms>['information', 'movie', 'vatican', 'tapes']</priorterms>
+<qmodel>TEXT:information TEXT:movie TEXT:vatican TEXT:tapes </qmodel>
+</top>
+<top>
+<num>MB405</num>
+<title>Rotterdam Unlimited</title>
+<priorterms>['rotterdam', 'people', 'unlimited', 'experiencing']</priorterms>
+<qmodel>TEXT:rotterdam TEXT:people TEXT:unlimited TEXT:experiencing </qmodel>
+</top>
+<top>
+<num>MB389</num>
+<title>Clinton Foundation</title>
+<priorterms>['foundation', 'activities', 'clinton', 'tweets']</priorterms>
+<qmodel>TEXT:foundation TEXT:activities TEXT:clinton TEXT:tweets </qmodel>
+</top>
+<top>
+<num>MB401</num>
+<title>"Knock Knock Live"</title>
+<priorterms>['show', 'prizes', 'celebrities', 'foxs', 'appeared', 'knock', 'live']</priorterms>
+<qmodel>TEXT:show TEXT:prizes TEXT:celebrities TEXT:foxs TEXT:appeared TEXT:knock TEXT:live </qmodel>
+</top>
+<top>
+<num>MB346</num>
+<title>venomous snake encounters</title>
+<priorterms>['encounters', 'snake', 'venomous', 'snakes', 'tweets']</priorterms>
+<qmodel>TEXT:encounters TEXT:snake TEXT:venomous TEXT:snakes TEXT:tweets </qmodel>
+</top>
+<top>
+<num>MB423</num>
+<title>drones and domestic surveillance</title>
+<priorterms>['drones', 'surveillance', 'opinions', 'domestic']</priorterms>
+<qmodel>TEXT:drones TEXT:surveillance TEXT:opinions TEXT:domestic </qmodel>
+</top>
+<top>
+<num>MB425</num>
+<title>Sudoku tournaments</title>
+<priorterms>['information', 'sudoku', 'tournaments', 'upcoming']</priorterms>
+<qmodel>TEXT:information TEXT:sudoku TEXT:tournaments TEXT:upcoming </qmodel>
+</top>
+<top>
+<num>MB277</num>
+<title>calcium supplements</title>
+<priorterms>['kinds', 'supplements', 'taking', 'calcium', 'cons', 'pros']</priorterms>
+<qmodel>TEXT:kinds TEXT:supplements TEXT:taking TEXT:calcium TEXT:cons TEXT:pros </qmodel>
+</top>
+<top>
+<num>MB319</num>
+<title>European river cruises</title>
+<priorterms>['information', 'river', 'european', 'cruises', 'multiday']</priorterms>
+<qmodel>TEXT:information TEXT:river TEXT:european TEXT:cruises TEXT:multiday </qmodel>
+</top>
+<top>
+<num>MB285</num>
+<title>relocating from NYC to LA</title>
+<priorterms>['la', 'artist', 'graphic', 'data', 'relocating', 'settle', 'nyc', 'decide', 'relocated']</priorterms>
+<qmodel>TEXT:la TEXT:artist TEXT:graphic TEXT:data TEXT:relocating TEXT:settle TEXT:nyc TEXT:decide TEXT:relocated </qmodel>
+</top>
+<top>
+<num>RTS17</num>
+<title>Brexit Article 50</title>
+<priorterms>['begin', 'treaty', 'lisbon', 'leaving', 'process', 'european', 'brexit', '50', 'uk', 'article', 'union', 'trigger', 'formally']</priorterms>
+<qmodel>TEXT:begin TEXT:treaty TEXT:lisbon TEXT:leaving TEXT:process TEXT:european TEXT:brexit TEXT:50 TEXT:uk TEXT:article TEXT:union TEXT:trigger TEXT:formally </qmodel>
+</top>
+<top>
+<num>RTS4</num>
+<title>Olympic women's table tennis medalists</title>
+<priorterms>['table', 'tennis', 'competition', 'medalists', '2016', 'womens', 'games', 'olympic', 'discussion', 'medals']</priorterms>
+<qmodel>TEXT:table TEXT:tennis TEXT:competition TEXT:medalists TEXT:2016 TEXT:womens TEXT:games TEXT:olympic TEXT:discussion TEXT:medals </qmodel>
+</top>
+<top>
+<num>MB410</num>
+<title>hidden icons in movies and television</title>
+<priorterms>['icons', 'information', 'television', 'shows', 'movies', 'hidden']</priorterms>
+<qmodel>TEXT:icons TEXT:information TEXT:television TEXT:shows TEXT:movies TEXT:hidden </qmodel>
+</top>
+<top>
+<num>MB243</num>
+<title>FIFA corruption investigation</title>
+<priorterms>['related', 'corruption', 'investigation', 'ongoing', 'fifa', 'information', 'officials']</priorterms>
+<qmodel>TEXT:related TEXT:corruption TEXT:investigation TEXT:ongoing TEXT:fifa TEXT:information TEXT:officials </qmodel>
+</top>
+<top>
+<num>MB278</num>
+<title>"Mr. Holmes" movie</title>
+<priorterms>['holmes', 'opinions', 'critiques', 'mr', 'movie', 'newlyreleased']</priorterms>
+<qmodel>TEXT:holmes TEXT:opinions TEXT:critiques TEXT:mr TEXT:movie TEXT:newlyreleased </qmodel>
+</top>
+<top>
+<num>MB441</num>
+<title>speech recognition software</title>
+<priorterms>['experiences', 'software', 'recognition', 'speech', 'peoples']</priorterms>
+<qmodel>TEXT:experiences TEXT:software TEXT:recognition TEXT:speech TEXT:peoples </qmodel>
+</top>
+<top>
+<num>MB331</num>
+<title>Special Olympics 2015</title>
+<priorterms>['los', 'held', 'special', '2015', 'information', 'games', 'olympics', 'angeles']</priorterms>
+<qmodel>TEXT:los TEXT:held TEXT:special TEXT:2015 TEXT:information TEXT:games TEXT:olympics TEXT:angeles </qmodel>
+</top>
+<top>
+<num>MB264</num>
+<title>vaccine avoidance</title>
+<priorterms>['vaccine', 'advocate', 'avoiding', 'support', 'vaccines', 'explain', 'avoidance', 'positions', 'tweets']</priorterms>
+<qmodel>TEXT:vaccine TEXT:advocate TEXT:avoiding TEXT:support TEXT:vaccines TEXT:explain TEXT:avoidance TEXT:positions TEXT:tweets </qmodel>
+</top>
+<top>
+<num>MB369</num>
+<title>High Line Park</title>
+<priorterms>['high', 'park', 'opinions', 'information', 'line', 'manhattan']</priorterms>
+<qmodel>TEXT:high TEXT:park TEXT:opinions TEXT:information TEXT:line TEXT:manhattan </qmodel>
+</top>
+<top>
+<num>MB248</num>
+<title>Harlem 5K race</title>
+<priorterms>['running', 'harlem', 'race', 'information', '5k']</priorterms>
+<qmodel>TEXT:running TEXT:harlem TEXT:race TEXT:information TEXT:5k </qmodel>
+</top>
+<top>
+<num>MB390</num>
+<title>Apple Music</title>
+<priorterms>['program', 'opinions', 'music', 'apple', 'peoples']</priorterms>
+<qmodel>TEXT:program TEXT:opinions TEXT:music TEXT:apple TEXT:peoples </qmodel>
+</top>
+<top>
+<num>MB411</num>
+<title>Disney World</title>
+<priorterms>['vacationing', 'world', 'experiences', 'disney', 'peoples']</priorterms>
+<qmodel>TEXT:vacationing TEXT:world TEXT:experiences TEXT:disney TEXT:peoples </qmodel>
+</top>
+<top>
+<num>RTS31</num>
+<title>Galaxy Note 7</title>
+<priorterms>['galaxy', '7', 'speed', 'impressions', 'phone', 'fast', 'information', 'note', 'processor', 'peoples']</priorterms>
+<qmodel>TEXT:galaxy TEXT:7 TEXT:speed TEXT:impressions TEXT:phone TEXT:fast TEXT:information TEXT:note TEXT:processor TEXT:peoples </qmodel>
+</top>
+<top>
+<num>MB339</num>
+<title>Chincoteague Pony Swim</title>
+<priorterms>['md', 'chincoteague', 'swim', 'annual', 'pony', 'tweets']</priorterms>
+<qmodel>TEXT:md TEXT:chincoteague TEXT:swim TEXT:annual TEXT:pony TEXT:tweets </qmodel>
+</top>
+<top>
+<num>MB235</num>
+<title>California residential water restrictions</title>
+<priorterms>['drought', 'due', 'effects', 'residential', 'descriptions', 'california', 'restrictions', 'water']</priorterms>
+<qmodel>TEXT:drought TEXT:due TEXT:effects TEXT:residential TEXT:descriptions TEXT:california TEXT:restrictions TEXT:water </qmodel>
+</top>
+<top>
+<num>MB338</num>
+<title>gluten substitutes</title>
+<priorterms>['substitutes', 'information', 'cooking', 'baking', 'gluten']</priorterms>
+<qmodel>TEXT:substitutes TEXT:information TEXT:cooking TEXT:baking TEXT:gluten </qmodel>
+</top>
+<top>
+<num>MB227</num>
+<title>Pradaxa side effects</title>
+<priorterms>['blood', 'effects', 'information', 'negative', 'side', 'pradaxa', 'thinning', 'drug']</priorterms>
+<qmodel>TEXT:blood TEXT:effects TEXT:information TEXT:negative TEXT:side TEXT:pradaxa TEXT:thinning TEXT:drug </qmodel>
+</top>
+<top>
+<num>MB252</num>
+<title>Lamictal and academics</title>
+<priorterms>['lamictal', 'academics', 'process', 'effects', 'learning', 'comments', 'teens', 'academic', 'lamictals']</priorterms>
+<qmodel>TEXT:lamictal TEXT:academics TEXT:process TEXT:effects TEXT:learning TEXT:comments TEXT:teens TEXT:academic TEXT:lamictals </qmodel>
+</top>
+<top>
+<num>MB324</num>
+<title>Indian-Pacific train</title>
+<priorterms>['opinions', 'sydney', 'indianpacific', 'runs', 'train', 'perth']</priorterms>
+<qmodel>TEXT:opinions TEXT:sydney TEXT:indianpacific TEXT:runs TEXT:train TEXT:perth </qmodel>
+</top>
+<top>
+<num>RTS43</num>
+<title>Donald Trump and Mike Pence policy differences</title>
+<priorterms>['running', 'presidential', 'information', 'trump', 'policy', 'mike', 'donald', 'pence', 'republican', 'differences', 'mate', 'candidate']</priorterms>
+<qmodel>TEXT:running TEXT:presidential TEXT:information TEXT:trump TEXT:policy TEXT:mike TEXT:donald TEXT:pence TEXT:republican TEXT:differences TEXT:mate TEXT:candidate </qmodel>
+</top>
+<top>
+<num>RTS22</num>
+<title>Earth-like exoplanets</title>
+<priorterms>['information', 'earthlike', 'discovery', 'exoplanets']</priorterms>
+<qmodel>TEXT:information TEXT:earthlike TEXT:discovery TEXT:exoplanets </qmodel>
+</top>
+<top>
+<num>MB286</num>
+<title>job training for high school graduates</title>
+<priorterms>['training', 'high', 'programs', 'job', 'data', 'graduates', 'school', 'apprenticeship']</priorterms>
+<qmodel>TEXT:training TEXT:high TEXT:programs TEXT:job TEXT:data TEXT:graduates TEXT:school TEXT:apprenticeship </qmodel>
+</top>
+<top>
+<num>MB448</num>
+<title>Bouchercon World Mystery Convention</title>
+<priorterms>['world', 'bouchercon', 'mystery', 'convention', 'information']</priorterms>
+<qmodel>TEXT:world TEXT:bouchercon TEXT:mystery TEXT:convention TEXT:information </qmodel>
+</top>
+<top>
+<num>MB385</num>
+<title>D.C. Metro outages</title>
+<priorterms>['metro', 'outages', 'system', 'subway', 'reports', 'incidents', 'dc']</priorterms>
+<qmodel>TEXT:metro TEXT:outages TEXT:system TEXT:subway TEXT:reports TEXT:incidents TEXT:dc </qmodel>
+</top>
+<top>
+<num>MB259</num>
+<title>MAOI food interactions</title>
+<priorterms>['unexpected', 'taking', 'information', 'maoi', 'food', 'interactions']</priorterms>
+<qmodel>TEXT:unexpected TEXT:taking TEXT:information TEXT:maoi TEXT:food TEXT:interactions </qmodel>
+</top>
+<top>
+<num>MB393</num>
+<title>U.S. crop harvest yield</title>
+<priorterms>['yield', 'crops', 'years', 'crop', 'harvest', 'information', 'anticipated']</priorterms>
+<qmodel>TEXT:yield TEXT:crops TEXT:years TEXT:crop TEXT:harvest TEXT:information TEXT:anticipated </qmodel>
+</top>
+<top>
+<num>MB242</num>
+<title>Saudi bombing Yemen</title>
+<priorterms>['related', 'houthi', 'saudi', 'raids', 'bombing', 'arabia', 'recent', 'information', 'yemen']</priorterms>
+<qmodel>TEXT:related TEXT:houthi TEXT:saudi TEXT:raids TEXT:bombing TEXT:arabia TEXT:recent TEXT:information TEXT:yemen </qmodel>
+</top>
+<top>
+<num>MB342</num>
+<title>beta-blockers</title>
+<priorterms>['betablockers', 'effects', 'information', 'adverse', 'side']</priorterms>
+<qmodel>TEXT:betablockers TEXT:effects TEXT:information TEXT:adverse TEXT:side </qmodel>
+</top>
+<top>
+<num>MB271</num>
+<title>Kakuro</title>
+<priorterms>['apps', 'techniques', 'information', 'crosssums', 'puzzle', 'kakuro', 'tournaments', 'solving']</priorterms>
+<qmodel>TEXT:apps TEXT:techniques TEXT:information TEXT:crosssums TEXT:puzzle TEXT:kakuro TEXT:tournaments TEXT:solving </qmodel>
+</top>
+<top>
+<num>RTS28</num>
+<title>Nvidia's new Titan X</title>
+<priorterms>['gpu', 'worth', 'titan', 'cost', 'people', 'nvidias']</priorterms>
+<qmodel>TEXT:gpu TEXT:worth TEXT:titan TEXT:cost TEXT:people TEXT:nvidias </qmodel>
+</top>
+<top>
+<num>RTS7</num>
+<title>Traveler's Championship</title>
+<priorterms>['tour', 'poorly', 'championship', 'information', 'pga', 'travelers']</priorterms>
+<qmodel>TEXT:tour TEXT:poorly TEXT:championship TEXT:information TEXT:pga TEXT:travelers </qmodel>
+</top>
+<top>
+<num>MB382</num>
+<title>trends in children's clothing</title>
+<priorterms>['information', 'childrens', 'trends', 'clothing']</priorterms>
+<qmodel>TEXT:information TEXT:childrens TEXT:trends TEXT:clothing </qmodel>
+</top>
+<top>
+<num>MB327</num>
+<title>problems between Egypt and Libya</title>
+<priorterms>['information', 'libya', 'egypt', 'problems']</priorterms>
+<qmodel>TEXT:information TEXT:libya TEXT:egypt TEXT:problems </qmodel>
+</top>
+<top>
+<num>MB317</num>
+<title>Paleo diet</title>
+<priorterms>['information', 'diet', 'paleo']</priorterms>
+<qmodel>TEXT:information TEXT:diet TEXT:paleo </qmodel>
+</top>
+<top>
+<num>MB377</num>
+<title>animal attacks in safari parks</title>
+<priorterms>['people', 'relating', 'animals', 'attacks', 'animal', 'safari', 'parks', 'tweets']</priorterms>
+<qmodel>TEXT:people TEXT:relating TEXT:animals TEXT:attacks TEXT:animal TEXT:safari TEXT:parks TEXT:tweets </qmodel>
+</top>
+<top>
+<num>MB340</num>
+<title>perennial plants</title>
+<priorterms>['perennial', 'residential', 'plants', 'gardens', 'recommended']</priorterms>
+<qmodel>TEXT:perennial TEXT:residential TEXT:plants TEXT:gardens TEXT:recommended </qmodel>
+</top>
+<top>
+<num>MB330</num>
+<title>kayaking</title>
+<priorterms>['opinions', 'interesting', 'kayaking', 'outings', 'places']</priorterms>
+<qmodel>TEXT:opinions TEXT:interesting TEXT:kayaking TEXT:outings TEXT:places </qmodel>
+</top>
+<top>
+<num>MB443</num>
+<title>bee keeping</title>
+<priorterms>['return', 'bee', 'tweets', 'aspects', 'keeping']</priorterms>
+<qmodel>TEXT:return TEXT:bee TEXT:tweets TEXT:aspects TEXT:keeping </qmodel>
+</top>
+<top>
+<num>MB298</num>
+<title>Gaza rockets hit Israel</title>
+<priorterms>['gaza', 'rockets', 'hit', 'israel', 'information', 'landing', 'fired']</priorterms>
+<qmodel>TEXT:gaza TEXT:rockets TEXT:hit TEXT:israel TEXT:information TEXT:landing TEXT:fired </qmodel>
+</top>
+<top>
+<num>MB417</num>
+<title>cataract surgery</title>
+<priorterms>['experiences', 'cataract', 'surgery', 'patient', 'describing', 'tweets']</priorterms>
+<qmodel>TEXT:experiences TEXT:cataract TEXT:surgery TEXT:patient TEXT:describing TEXT:tweets </qmodel>
+</top>
+<top>
+<num>MB236</num>
+<title>California drought agricultural effects</title>
+<priorterms>['drought', 'effect', 'agricultural', 'effects', 'information', 'states', 'california', 'sector']</priorterms>
+<qmodel>TEXT:drought TEXT:effect TEXT:agricultural TEXT:effects TEXT:information TEXT:states TEXT:california TEXT:sector </qmodel>
+</top>
+<top>
+<num>MB350</num>
+<title>farmers markets</title>
+<priorterms>['experiences', 'markets', 'tweets', 'farmers', 'peoples']</priorterms>
+<qmodel>TEXT:experiences TEXT:markets TEXT:tweets TEXT:farmers TEXT:peoples </qmodel>
+</top>
+<top>
+<num>MB320</num>
+<title>Alaskan cruises</title>
+<priorterms>['information', 'alaskan', 'cruises', 'multiday']</priorterms>
+<qmodel>TEXT:information TEXT:alaskan TEXT:cruises TEXT:multiday </qmodel>
+</top>
+<top>
+<num>MB352</num>
+<title>opinions of Wegmans</title>
+<priorterms>['chain', 'opinions', 'supermarket', 'wegmans', 'peoples']</priorterms>
+<qmodel>TEXT:chain TEXT:opinions TEXT:supermarket TEXT:wegmans TEXT:peoples </qmodel>
+</top>
+<top>
+<num>MB381</num>
+<title>coin collecting</title>
+<priorterms>['coin', 'collecting', 'tweets']</priorterms>
+<qmodel>TEXT:coin TEXT:collecting TEXT:tweets </qmodel>
+</top>
+<top>
+<num>MB394</num>
+<title>biased news reporting</title>
+<priorterms>['reporting', 'opinions', 'providing', 'biased', 'onesided', 'news', 'outlets']</priorterms>
+<qmodel>TEXT:reporting TEXT:opinions TEXT:providing TEXT:biased TEXT:onesided TEXT:news TEXT:outlets </qmodel>
+</top>
+<top>
+<num>RTS41</num>
+<title>Mike Pence scandals</title>
+<priorterms>['information', 'scandals', 'mike', 'pence', 'involving']</priorterms>
+<qmodel>TEXT:information TEXT:scandals TEXT:mike TEXT:pence TEXT:involving </qmodel>
+</top>
+<top>
+<num>MB426</num>
+<title>Billy Joel concerts</title>
+<priorterms>['joels', 'billy', 'joel', 'concerts', 'information']</priorterms>
+<qmodel>TEXT:joels TEXT:billy TEXT:joel TEXT:concerts TEXT:information </qmodel>
+</top>
+<top>
+<num>RTS39</num>
+<title>California wildfires</title>
+<priorterms>['wildfires', 'caused', 'evacuations', 'information', 'specific', 'california']</priorterms>
+<qmodel>TEXT:wildfires TEXT:caused TEXT:evacuations TEXT:information TEXT:specific TEXT:california </qmodel>
+</top>
+<top>
+<num>MB253</num>
+<title>health insurance for disabled children</title>
+<priorterms>['care', 'disabled', 'covered', 'provided', 'act', 'children', 'accounts', 'firsthand', 'health', 'insurance', 'disabilities']</priorterms>
+<qmodel>TEXT:care TEXT:disabled TEXT:covered TEXT:provided TEXT:act TEXT:children TEXT:accounts TEXT:firsthand TEXT:health TEXT:insurance TEXT:disabilities </qmodel>
+</top>
+<top>
+<num>MB380</num>
+<title>"Home Free" reality show competition</title>
+<priorterms>['show', 'homeremodeling', 'competition', 'reality', 'tweets', 'consists', 'home', 'free']</priorterms>
+<qmodel>TEXT:show TEXT:homeremodeling TEXT:competition TEXT:reality TEXT:tweets TEXT:consists TEXT:home TEXT:free </qmodel>
+</top>
+<top>
+<num>RTS15</num>
+<title>Gary Johnson</title>
+<priorterms>['johnson', 'presidential', 'platform', 'upcoming', 'information', 'libertarian', 'election', 'gary', 'candidate']</priorterms>
+<qmodel>TEXT:johnson TEXT:presidential TEXT:platform TEXT:upcoming TEXT:information TEXT:libertarian TEXT:election TEXT:gary TEXT:candidate </qmodel>
+</top>
+<top>
+<num>MB334</num>
+<title>mindfulness in the corporation</title>
+<priorterms>['professional', 'corporation', 'lives', 'techniques', 'mindfulness', 'employees', 'corporate', 'tweets']</priorterms>
+<qmodel>TEXT:professional TEXT:corporation TEXT:lives TEXT:techniques TEXT:mindfulness TEXT:employees TEXT:corporate TEXT:tweets </qmodel>
+</top>
+<top>
+<num>MB358</num>
+<title>physical fitness sensors</title>
+<priorterms>['people', 'sensors', 'phone', 'describing', 'fitbit', 'physical', 'apps', 'fitness', 'tweets']</priorterms>
+<qmodel>TEXT:people TEXT:sensors TEXT:phone TEXT:describing TEXT:fitbit TEXT:physical TEXT:apps TEXT:fitness TEXT:tweets </qmodel>
+</top>
+<top>
+<num>MB296</num>
+<title>free-range kids</title>
+<priorterms>['controversy', 'opinions', 'freerange', 'kids', 'side']</priorterms>
+<qmodel>TEXT:controversy TEXT:opinions TEXT:freerange TEXT:kids TEXT:side </qmodel>
+</top>
+<top>
+<num>MB246</num>
+<title>Greek international debt crisis</title>
+<priorterms>['related', 'creditors', 'debt', 'crisis', 'union', 'information', 'european', 'international', 'withdrawal', 'greek', 'consequences', 'surrounding']</priorterms>
+<qmodel>TEXT:related TEXT:creditors TEXT:debt TEXT:crisis TEXT:union TEXT:information TEXT:european TEXT:international TEXT:withdrawal TEXT:greek TEXT:consequences TEXT:surrounding </qmodel>
+</top>
+<top>
+<num>MB424</num>
+<title>Comcast customer service</title>
+<priorterms>['customer', 'opinions', 'provided', 'service', 'comcast']</priorterms>
+<qmodel>TEXT:customer TEXT:opinions TEXT:provided TEXT:service TEXT:comcast </qmodel>
+</top>
+<top>
+<num>MB255</num>
+<title>medical insurance on cruises</title>
+<priorterms>['traveling', 'experiences', 'medical', 'insurance', 'accounts', 'cruise', 'cruises']</priorterms>
+<qmodel>TEXT:traveling TEXT:experiences TEXT:medical TEXT:insurance TEXT:accounts TEXT:cruise TEXT:cruises </qmodel>
+</top>
+<top>
+<num>MB341</num>
+<title>Seattle Seafair Fleet Week</title>
+<priorterms>['seafair', 'week', 'washington', 'seattle', 'fleet', 'tweets']</priorterms>
+<qmodel>TEXT:seafair TEXT:week TEXT:washington TEXT:seattle TEXT:fleet TEXT:tweets </qmodel>
+</top>
+<top>
+<num>MB439</num>
+<title>Bolton Wanderers</title>
+<priorterms>['bolton', 'football', 'wanderers', 'club', 'tweets']</priorterms>
+<qmodel>TEXT:bolton TEXT:football TEXT:wanderers TEXT:club TEXT:tweets </qmodel>
+</top>
+<top>
+<num>MB251</num>
+<title>NFL training camps</title>
+<priorterms>['training', 'activities', 'players', 'information', 'nfl', 'camps', 'locations']</priorterms>
+<qmodel>TEXT:training TEXT:activities TEXT:players TEXT:information TEXT:nfl TEXT:camps TEXT:locations </qmodel>
+</top>
+<top>
+<num>MB357</num>
+<title>prevalence of Ritalin use with no ADHD diagnosis</title>
+<priorterms>['students', 'ritalin', 'college', 'information', 'adhd', 'diagnosed', 'diagnosis', 'prevalence']</priorterms>
+<qmodel>TEXT:students TEXT:ritalin TEXT:college TEXT:information TEXT:adhd TEXT:diagnosed TEXT:diagnosis TEXT:prevalence </qmodel>
+</top>
+<top>
+<num>MB419</num>
+<title>King George Weekend Ascot</title>
+<priorterms>['george', 'king', 'weekend', 'ascot', 'england', 'tweets']</priorterms>
+<qmodel>TEXT:george TEXT:king TEXT:weekend TEXT:ascot TEXT:england TEXT:tweets </qmodel>
+</top>
+<top>
+<num>MB363</num>
+<title>school supplies sales</title>
+<priorterms>['current', 'school', 'supplies', 'sales', 'tweets']</priorterms>
+<qmodel>TEXT:current TEXT:school TEXT:supplies TEXT:sales TEXT:tweets </qmodel>
+</top>
+<top>
+<num>MB332</num>
+<title>emerging music styles</title>
+<priorterms>['style', 'audiences', 'styles', 'emerging', 'fresh', 'music', 'impressing', 'musicians', 'tweets']</priorterms>
+<qmodel>TEXT:style TEXT:audiences TEXT:styles TEXT:emerging TEXT:fresh TEXT:music TEXT:impressing TEXT:musicians TEXT:tweets </qmodel>
+</top>
+<top>
+<num>MB283</num>
+<title>curry as a condiment</title>
+<priorterms>['people', 'recipes', 'condiment', 'ways', 'curry']</priorterms>
+<qmodel>TEXT:people TEXT:recipes TEXT:condiment TEXT:ways TEXT:curry </qmodel>
+</top>
+<top>
+<num>MB247</num>
+<title>Harlem Week in New York</title>
+<priorterms>['week', 'harlem', 'york', 'information', 'activities']</priorterms>
+<qmodel>TEXT:week TEXT:harlem TEXT:york TEXT:information TEXT:activities </qmodel>
+</top>
+<top>
+<num>RTS20</num>
+<title>electric charging stations on the west coast</title>
+<priorterms>['vehicles', 'charging', 'station', 'west', 'information', 'coast', 'stations', 'operational', 'locations', 'electric']</priorterms>
+<qmodel>TEXT:vehicles TEXT:charging TEXT:station TEXT:west TEXT:information TEXT:coast TEXT:stations TEXT:operational TEXT:locations TEXT:electric </qmodel>
+</top>
+<top>
+<num>RTS11</num>
+<title>Oakland Raiders training camp</title>
+<priorterms>['training', 'camp', 'player', 'oakland', 'information', 'actions', 'teams', 'coaching', 'raiders', 'football']</priorterms>
+<qmodel>TEXT:training TEXT:camp TEXT:player TEXT:oakland TEXT:information TEXT:actions TEXT:teams TEXT:coaching TEXT:raiders TEXT:football </qmodel>
+</top>
+<top>
+<num>MB269</num>
+<title>European refugee quotas</title>
+<priorterms>['refugee', 'effects', 'union', 'information', 'system', 'european', 'refugees', 'quotas', 'accept', 'countries', 'quota', 'resettlement']</priorterms>
+<qmodel>TEXT:refugee TEXT:effects TEXT:union TEXT:information TEXT:system TEXT:european TEXT:refugees TEXT:quotas TEXT:accept TEXT:countries TEXT:quota TEXT:resettlement </qmodel>
+</top>
+<top>
+<num>MB336</num>
+<title>graduate programs in robotics</title>
+<priorterms>['graduate', 'robotics', 'programs', 'opinions', 'peoples']</priorterms>
+<qmodel>TEXT:graduate TEXT:robotics TEXT:programs TEXT:opinions TEXT:peoples </qmodel>
+</top>
+<top>
+<num>MB256</num>
+<title>Catholicism and social media</title>
+<priorterms>['catholics', 'pope', 'effect', 'catholicism', 'media', 'information', 'beliefs', 'behavior', 'young', 'social']</priorterms>
+<qmodel>TEXT:catholics TEXT:pope TEXT:effect TEXT:catholicism TEXT:media TEXT:information TEXT:beliefs TEXT:behavior TEXT:young TEXT:social </qmodel>
+</top>
+<top>
+<num>MB430</num>
+<title>Sarah Palin</title>
+<priorterms>['palin', 'political', 'latest', 'reaction', 'activity', 'palins', 'peoples', 'sarah', 'tweets']</priorterms>
+<qmodel>TEXT:palin TEXT:political TEXT:latest TEXT:reaction TEXT:activity TEXT:palins TEXT:peoples TEXT:sarah TEXT:tweets </qmodel>
+</top>
+<top>
+<num>MB303</num>
+<title>fracking in the Dakotas</title>
+<priorterms>['north', 'states', 'techniques', 'dakota', 'views', 'information', 'dakotas', 'fracking', 'south']</priorterms>
+<qmodel>TEXT:north TEXT:states TEXT:techniques TEXT:dakota TEXT:views TEXT:information TEXT:dakotas TEXT:fracking TEXT:south </qmodel>
+</top>
+<top>
+<num>MB276</num>
+<title>gay marriage laws in Europe</title>
+<priorterms>['passage', 'marriage', 'laws', 'information', 'europe', 'gay', 'possibility']</priorterms>
+<qmodel>TEXT:passage TEXT:marriage TEXT:laws TEXT:information TEXT:europe TEXT:gay TEXT:possibility </qmodel>
+</top>
+<top>
+<num>MB418</num>
+<title>ballroom dancing competitions</title>
+<priorterms>['dancing', 'upcoming', 'information', 'retrieve', 'competitions', 'ballroom']</priorterms>
+<qmodel>TEXT:dancing TEXT:upcoming TEXT:information TEXT:retrieve TEXT:competitions TEXT:ballroom </qmodel>
+</top>
+<top>
+<num>MB226</num>
+<title>Hershey, PA quilt show</title>
+<priorterms>['show', 'quilt', 'information', 'hershey', 'held', 'pa']</priorterms>
+<qmodel>TEXT:show TEXT:quilt TEXT:information TEXT:hershey TEXT:held TEXT:pa </qmodel>
+</top>
+<top>
+<num>MB366</num>
+<title>climbing Mount Everest</title>
+<priorterms>['information', 'climbing', 'everest', 'mount', 'hand', 'accounts']</priorterms>
+<qmodel>TEXT:information TEXT:climbing TEXT:everest TEXT:mount TEXT:hand TEXT:accounts </qmodel>
+</top>
+<top>
+<num>RTS32</num>
+<title>housing conditions at the Olympics</title>
+<priorterms>['athletes', 'opinions', 'conditions', 'rio', 'housing', 'village', 'olympic', 'olympics']</priorterms>
+<qmodel>TEXT:athletes TEXT:opinions TEXT:conditions TEXT:rio TEXT:housing TEXT:village TEXT:olympic TEXT:olympics </qmodel>
+</top>
+<top>
+<num>RTS24</num>
+<title>Brexit and gold prices</title>
+<priorterms>['affecting', 'gold', 'information', 'brexit', 'prices']</priorterms>
+<qmodel>TEXT:affecting TEXT:gold TEXT:information TEXT:brexit TEXT:prices </qmodel>
+</top>
+<top>
+<num>MB436</num>
+<title>restaurant workers' tips</title>
+<priorterms>['received', 'workers', 'tips', 'restaurant', 'tweets']</priorterms>
+<qmodel>TEXT:received TEXT:workers TEXT:tips TEXT:restaurant TEXT:tweets </qmodel>
+</top>
+<top>
+<num>RTS42</num>
+<title>Tim Kaine scandals</title>
+<priorterms>['tim', 'scandals', 'information', 'involving', 'kaine']</priorterms>
+<qmodel>TEXT:tim TEXT:scandals TEXT:information TEXT:involving TEXT:kaine </qmodel>
+</top>
+<top>
+<num>MB305</num>
+<title>National Museum of American History</title>
+<priorterms>['washington', 'american', 'renovated', 'information', 'museum', 'national', 'history', 'dc']</priorterms>
+<qmodel>TEXT:washington TEXT:american TEXT:renovated TEXT:information TEXT:museum TEXT:national TEXT:history TEXT:dc </qmodel>
+</top>
+<top>
+<num>MB260</num>
+<title>Society for Women and the Civil War Conference</title>
+<priorterms>['conference', 'war', 'civil', 'information', 'society', 'women', 'annual']</priorterms>
+<qmodel>TEXT:conference TEXT:war TEXT:civil TEXT:information TEXT:society TEXT:women TEXT:annual </qmodel>
+</top>
+<top>
+<num>MB376</num>
+<title>military exercises southwest U.S.</title>
+<priorterms>['place', 'summer', 'taking', 'exercises', 'tweets', 'southwest', 'military']</priorterms>
+<qmodel>TEXT:place TEXT:summer TEXT:taking TEXT:exercises TEXT:tweets TEXT:southwest TEXT:military </qmodel>
+</top>
+<top>
+<num>MB335</num>
+<title>pop-up stores</title>
+<priorterms>['popup', 'located', 'stores']</priorterms>
+<qmodel>TEXT:popup TEXT:located TEXT:stores </qmodel>
+</top>
+<top>
+<num>MB302</num>
+<title>Washington, DC area gas price</title>
+<priorterms>['price', 'area', 'metro', 'information', 'washington', 'gas', 'prices', 'dc']</priorterms>
+<qmodel>TEXT:price TEXT:area TEXT:metro TEXT:information TEXT:washington TEXT:gas TEXT:prices TEXT:dc </qmodel>
+</top>
+<top>
+<num>RTS12</num>
+<title>Wye Oak Album "Tween"</title>
+<priorterms>['oak', 'tween', 'reviews', 'album', 'wye']</priorterms>
+<qmodel>TEXT:oak TEXT:tween TEXT:reviews TEXT:album TEXT:wye </qmodel>
+</top>
+<top>
+<num>MB272</num>
+<title>fishing contests in the Atlantic Ocean</title>
+<priorterms>['information', '2015', 'contests', 'fishing', 'atlantic', 'july', 'ocean']</priorterms>
+<qmodel>TEXT:information TEXT:2015 TEXT:contests TEXT:fishing TEXT:atlantic TEXT:july TEXT:ocean </qmodel>
+</top>
+<top>
+<num>RTS2</num>
+<title>Zika in Ecuador</title>
+<priorterms>['country', 'current', 'zika', 'updates', 'crisis', 'ecuador']</priorterms>
+<qmodel>TEXT:country TEXT:current TEXT:zika TEXT:updates TEXT:crisis TEXT:ecuador </qmodel>
+</top>
+<top>
+<num>MB433</num>
+<title>car recalls</title>
+<priorterms>['car', 'recalls', 'reactions', 'peoples']</priorterms>
+<qmodel>TEXT:car TEXT:recalls TEXT:reactions TEXT:peoples </qmodel>
+</top>
+<top>
+<num>RTS5</num>
+<title>Olympic Soccer for Brazil</title>
+<priorterms>['brazil', 'soccer', 'brazilian', 'team', '2016', 'feel', 'fans', 'performance', 'olympic', 'olympics']</priorterms>
+<qmodel>TEXT:brazil TEXT:soccer TEXT:brazilian TEXT:team TEXT:2016 TEXT:feel TEXT:fans TEXT:performance TEXT:olympic TEXT:olympics </qmodel>
+</top>
+<top>
+<num>MB314</num>
+<title>honey prices</title>
+<priorterms>['information', 'alternatives', 'honey', 'baking', 'rising', 'prices', 'light', 'cheaper']</priorterms>
+<qmodel>TEXT:information TEXT:alternatives TEXT:honey TEXT:baking TEXT:rising TEXT:prices TEXT:light TEXT:cheaper </qmodel>
+</top>
+<top>
+<num>MB237</num>
+<title>electronic cigarette flavors</title>
+<priorterms>['likes', 'cigarette', 'information', 'current', 'flavors', 'electronic', 'peoples', 'cigarettes', 'dislikes']</priorterms>
+<qmodel>TEXT:likes TEXT:cigarette TEXT:information TEXT:current TEXT:flavors TEXT:electronic TEXT:peoples TEXT:cigarettes TEXT:dislikes </qmodel>
+</top>
+<top>
+<num>MB266</num>
+<title>passenger ferry mishaps</title>
+<priorterms>['passengers', 'reactions', 'mishaps', 'passenger', 'describing', 'ferry', 'tweets']</priorterms>
+<qmodel>TEXT:passengers TEXT:reactions TEXT:mishaps TEXT:passenger TEXT:describing TEXT:ferry TEXT:tweets </qmodel>
+</top>
+<top>
+<num>MB407</num>
+<title>sunburn art</title>
+<priorterms>['art', 'sunburn', 'examples', 'opinions']</priorterms>
+<qmodel>TEXT:art TEXT:sunburn TEXT:examples TEXT:opinions </qmodel>
+</top>
+<top>
+<num>RTS23</num>
+<title>"Star Wars Episode 8"</title>
+<priorterms>['star', 'release', 'episode', '8', 'buzz', 'surrounding', 'user', 'movie', 'follow', 'upcoming', 'wars']</priorterms>
+<qmodel>TEXT:star TEXT:release TEXT:episode TEXT:8 TEXT:buzz TEXT:surrounding TEXT:user TEXT:movie TEXT:follow TEXT:upcoming TEXT:wars </qmodel>
+</top>
+<top>
+<num>MB371</num>
+<title>self-driving cars</title>
+<priorterms>['information', 'cars', 'selfdriving']</priorterms>
+<qmodel>TEXT:information TEXT:cars TEXT:selfdriving </qmodel>
+</top>
+<top>
+<num>RTS33</num>
+<title>International Beer Day in Germany</title>
+<priorterms>['day', 'related', 'international', 'germany', 'information', 'events', 'beer']</priorterms>
+<qmodel>TEXT:day TEXT:related TEXT:international TEXT:germany TEXT:information TEXT:events TEXT:beer </qmodel>
+</top>
+<top>
+<num>MB429</num>
+<title>Gates Foundation</title>
+<priorterms>['gates', 'melinda', 'bill', 'views', 'sponsored', 'foundation', 'projects', 'peoples']</priorterms>
+<qmodel>TEXT:gates TEXT:melinda TEXT:bill TEXT:views TEXT:sponsored TEXT:foundation TEXT:projects TEXT:peoples </qmodel>
+</top>
+<top>
+<num>MB383</num>
+<title>online dating for older women</title>
+<priorterms>['older', 'services', 'dating', 'online', 'women']</priorterms>
+<qmodel>TEXT:older TEXT:services TEXT:dating TEXT:online TEXT:women </qmodel>
+</top>
